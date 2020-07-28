@@ -1,0 +1,13 @@
+C:\Users\risto\Desktop\C# kurs\DateValidation\bin\Debug\netcoreapp3.1\DateValidation.exe
+C:\Users\risto\Desktop\C# kurs\DateValidation\bin\Debug\netcoreapp3.1\DateValidation.deps.json
+C:\Users\risto\Desktop\C# kurs\DateValidation\bin\Debug\netcoreapp3.1\DateValidation.runtimeconfig.json
+C:\Users\risto\Desktop\C# kurs\DateValidation\bin\Debug\netcoreapp3.1\DateValidation.runtimeconfig.dev.json
+C:\Users\risto\Desktop\C# kurs\DateValidation\bin\Debug\netcoreapp3.1\DateValidation.dll
+C:\Users\risto\Desktop\C# kurs\DateValidation\bin\Debug\netcoreapp3.1\DateValidation.pdb
+C:\Users\risto\Desktop\C# kurs\DateValidation\obj\Debug\netcoreapp3.1\DateValidation.csprojAssemblyReference.cache
+C:\Users\risto\Desktop\C# kurs\DateValidation\obj\Debug\netcoreapp3.1\DateValidation.AssemblyInfoInputs.cache
+C:\Users\risto\Desktop\C# kurs\DateValidation\obj\Debug\netcoreapp3.1\DateValidation.AssemblyInfo.cs
+C:\Users\risto\Desktop\C# kurs\DateValidation\obj\Debug\netcoreapp3.1\DateValidation.csproj.CoreCompileInputs.cache
+C:\Users\risto\Desktop\C# kurs\DateValidation\obj\Debug\netcoreapp3.1\DateValidation.dll
+C:\Users\risto\Desktop\C# kurs\DateValidation\obj\Debug\netcoreapp3.1\DateValidation.pdb
+C:\Users\risto\Desktop\C# kurs\DateValidation\obj\Debug\netcoreapp3.1\DateValidation.genruntimeconfig.cache
